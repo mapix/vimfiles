@@ -1,0 +1,18 @@
+[submodule "bundle/vim-sparkup"]
+	path = bundle/vim-sparkup
+	url = git://github.com/tristen/vim-sparkup.git
+[submodule "bundle/editorconfig-vim"]
+	path = bundle/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/pyflakes-vim"]
+	path = bundle/pyflakes-vim
+	url = https://github.com/kevinw/pyflakes-vim.git
+[submodule "bundle/vim-flake8"]
+	path = bundle/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
+[submodule "bundle/taglist.vim"]
+	path = bundle/taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim.git
